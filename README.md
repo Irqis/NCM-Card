@@ -31,7 +31,7 @@
 ### 5. 引用 SVG 图片
 - 在你的 GitHub Profile 仓库中添加以下链接来展示卡片：
 
-`![card](https://github.com/Irqis/NCM-Card/blob/main/card.svg`
+`![card](https://github.com/Irqis/NCM-Card/blob/main/card.svg)`
 
 
 - 或使用 [Jsdelivr](https://www.jsdelivr.com/?docs=gh) CDN (国内访问可能不稳定)：
